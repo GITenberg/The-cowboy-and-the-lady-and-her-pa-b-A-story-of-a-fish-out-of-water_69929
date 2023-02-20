@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '55499'
     url: http://www.gutenberg.org/2009/agents/55499
     wikipedia: https://en.wikipedia.org/wiki/James_E._Allen_(artist)
+covers:
+- cover_type: archival
+  image_path: 69929-h/images/cover.jpg
 creator:
   author:
     agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: https://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69929#The-cowboy-and-the-lady-and-her-pa-b-A-story-of-a-fish-out-of-water
 gutenberg_issued: '2023-02-01'
 identifiers:
   gutenberg: '69929'
